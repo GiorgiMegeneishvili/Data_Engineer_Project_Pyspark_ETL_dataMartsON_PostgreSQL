@@ -8,6 +8,7 @@ This project demonstrates how to:
 - Load curated data into **PostgreSQL**
 - Build **Data Marts** optimized for analytics
 - Design **Star Schema** for reporting and BI tools
+https://raw.githubusercontent.com/GiorgiMegeneishvili/Data_Engineer_Project_Pyspark_ETL_dataMartsON_PostgreSQL/refs/heads/main/Pyspark%20%20Diagram.png
 
 ---
 
