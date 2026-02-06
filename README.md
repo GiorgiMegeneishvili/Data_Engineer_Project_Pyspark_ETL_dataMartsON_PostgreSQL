@@ -24,7 +24,7 @@ PostgreSQL (Silver / Gold Layer)
 ↓
 Data Marts (Star Schema)
 
-![Pyspark  Diagram](PysparkDiagram.png)
+![Pyspark  Diagram](Pyspark_Diagram.png)
 
 
 📌 Focus is on **clean separation of concerns**:
