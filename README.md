@@ -8,9 +8,7 @@ This project demonstrates how to:
 - Load curated data into **PostgreSQL**
 - Build **Data Marts** optimized for analytics
 - Design **Star Schema** for reporting and BI tools
-https://raw.githubusercontent.com/GiorgiMegeneishvili/Data_Engineer_Project_Pyspark_ETL_
-dataMartsON_PostgreSQL/refs/heads/main/Pyspark%20%20Diagram.png
-Pyspark  Diagram.png
+
 
 ---
 
@@ -26,6 +24,7 @@ PostgreSQL (Silver / Gold Layer)
 ↓
 Data Marts (Star Schema)
 
+![Pyspark  Diagram](Pyspark  Diagram.png)
 
 
 📌 Focus is on **clean separation of concerns**:
