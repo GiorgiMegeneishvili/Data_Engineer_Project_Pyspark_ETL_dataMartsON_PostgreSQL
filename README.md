@@ -1,5 +1,9 @@
 # PySpark ETL Data Marts on PostgreSQL
 
+
+![Pipeline](Pyspark_Diagram.png)
+
+
 🚀 **End-to-End PySpark ETL pipeline** for building analytical **Data Marts** on **PostgreSQL**, following modern **Data Engineering** and **Dimensional Modeling (Star Schema)** principles.
 
 This project demonstrates how to:
